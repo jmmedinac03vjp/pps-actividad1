@@ -1,5 +1,5 @@
 # Welcome Project CECETI
-
+comentario josemi
 This is a *first contact* git project for students at CECETI (IES Valle del Jerte de Plasencia)  (or for anyone else that likes it by simply forking the repo).
 
 ## Install
